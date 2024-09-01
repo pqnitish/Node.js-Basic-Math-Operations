@@ -1,0 +1,20 @@
+{
+  "name": "node.js-basic-math-operations",
+  "version": "1.0.0",
+  "description": "This project demonstrates basic arithmetic operations in Node.js using separate modules for each operation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pqnitish/Node.js-Basic-Math-Operations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pqnitish/Node.js-Basic-Math-Operations/issues"
+  },
+  "homepage": "https://github.com/pqnitish/Node.js-Basic-Math-Operations#readme"
+}
